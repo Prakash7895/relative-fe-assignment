@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body,
+.ring-bw-head-body {
+  @apply bg-[#14172B];
+}
