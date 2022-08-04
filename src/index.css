@@ -10,5 +10,5 @@ body,
 }
 
 body {
-  @apply text-[#ECF0FF] font-Tomorrow opacity-90;
+  @apply text-[#ECF0FF] font-Tomorrow text-opacity-90 leading-[31px];
 }
